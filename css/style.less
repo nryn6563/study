@@ -1,0 +1,41 @@
+@title-color: #333;
+@title-size: 18px;
+@mobile : ~"(max-width:768px)";
+@web : ~"(min-width:769px)";
+
+
+h1{
+    color:@title-color;
+    font-size: @title-size;
+}
+nav{
+    display: inline-block;
+    width:480px;
+    height:480px;
+    background:#d4d4d4;
+    li{ 
+        font-size: @title-size;
+        color: @title-color;
+        font-weight:bold;
+    }
+    @media @mobile{
+        width: 640px;
+    }
+}
+#container{
+    @color : #787878;
+    background: @color;
+    color: @color;
+    font-size: @title-size * 2; 
+    @media @mobile{
+        background:#879664;
+    }
+    .visual{
+        color : @color;
+        font-size: @title-size + 3; 
+        background:#245644;
+    }
+    .content{
+        // 없음
+    }
+}
