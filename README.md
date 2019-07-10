@@ -21,16 +21,3 @@
 
 #conflict
 1. merge 할때 conflict 충돌 은 수동변경 하면 해결된다.
-
-
-
-
-
-
-
-#브랜치 관리하기 
-1. 보통 "feat/기능이름" 으로 한 사람이 개발하는 기능 브랜치를 만듭니다.(fix/버그이름, hotfix/급한버그)
-2. 작업이 완료되면 dev(or master) 브랜치로 PR을 보냅니다.
-3. dev 브랜치에서 큼지막한 작업이 모두 머지되면 release(or latest) 브랜치로 머지하고 이를 실서버에 배포 합니다.
-4. 직접 커밋은 feat(혹은 fix, hotfix)브랜치에만 합니다.
-5. dev나 master, release 브랜치에는 직접 커밋하지 말고 머지만 합니다.
