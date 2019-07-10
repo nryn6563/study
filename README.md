@@ -17,3 +17,7 @@
 1. GUI 소스트리 사용해보기
 2. 소스트리 사용시 push/pull error 시 저장소 설정 url id@url 로 변경해보기
 3. banch 생성/이동
+4. merge 합치기
+
+#conflict
+1. merge 할때 conflict 충돌 은 수동변경
