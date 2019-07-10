@@ -35,3 +35,5 @@
 3. dev 브랜치에서 큼지막한 작업이 모두 머지되면 release(or latest) 브랜치로 머지하고 이를 실서버에 배포 합니다.
 4. 직접 커밋은 feat(혹은 fix, hotfix)브랜치에만 합니다.
 5. dev나 master, release 브랜치에는 직접 커밋하지 말고 머지만 합니다.
+
+## pull request 요청
