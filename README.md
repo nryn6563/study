@@ -21,3 +21,7 @@
 
 #conflict
 1. merge 할때 conflict 충돌 은 수동변경 하면 해결된다.
+
+
+#fork 사용
+1. github 에서 fork 이후 clone 함
