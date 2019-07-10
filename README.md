@@ -20,4 +20,4 @@
 4. merge 합치기
 
 #conflict
-1. merge 할때 conflict 충돌 은 해결된다.
+1. merge 할때 conflict 충돌 은 수동변경 하면 해결된다.
