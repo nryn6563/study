@@ -37,3 +37,15 @@
 5. dev나 master, release 브랜치에는 직접 커밋하지 말고 머지만 합니다.
 
 ## pull request 요청
+
+### plus git keyword
+
+1. rebase 묵은 커밋을 새커밋처럼 조작할때 
+2. amend 커밋에 새로운 내용 추가 하고 싶을때
+3. cherry-pick : 브랜치에 커밋을 붙이고 싶을때 
+4. reset 커밋 되돌리기
+5. reverse 커밋의 변경사항 되돌리기 
+6. stash 변경사항을 킵할때
+
+
+**opentutorials 를 보고 공부해보자
