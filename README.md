@@ -49,3 +49,26 @@
 
 
 **opentutorials 를 보고 공부해보자
+
+로켓 펀치 좋은조건 회사 입사하기 위한 조건
+
+# 기술 분야
+1. javascript
+2. React.js
+3. Angular.js
+4. vue.js
+5. ES6
+6. pyton
+7. django
+8. node.js
+9. Redux
+10. webpack
+11. babel
+
+
+
+# 사용자 도구
+1. git
+2. slack
+3. Confluence 
+4. jira
