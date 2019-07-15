@@ -1,0 +1,19 @@
+# slack 사용법
+
+# 1. 메시지 보내기
+
+(1) 멘션 - @사용자명 메시지 
+(2) 이미지 첨부 - 브라우저 이미지 복사 - slack 붙여넣기 
+(3) code 붙여넣기 - 메시지창 + code or snippet 클릭
+(4) 이모티콘 보내기 - 메시지창 우측 이모티콘 사용가능 - 리액션 가능 - 이모지 등록가능
+
+# 2. 개인프로필 설정, 알람설정
+
+(1) profile & account - 개인프로필 설정
+(2) workspace setting - icon 설정
+(3) preferences notifications - 알람설정 - 기본 dm<direct massages, mention & keywords>
+(4) do not disturb - 방해금지<시간설정 가능>
+
+# 3. 슬랙 앱 추가
+
+## 비슷한 앱으로 flow 가 있다.
